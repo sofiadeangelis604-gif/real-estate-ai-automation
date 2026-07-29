@@ -10,7 +10,7 @@ Sistema construido en n8n que resuelve de extremo a extremo el proceso de captac
 
 - 📊 **Dashboard de Control (KPIs y tasa de errores):** https://airtable.com/appegNVHGWIbIGNmc/shrGG98FAhGPsZjdH
 - 🗄️ **Base de datos Airtable (modo lectura):** https://airtable.com/appegNVHGWIbIGNmc/shrnitcl1WYNH5885
-- 🎥 **Video demostración (máx. 3 min):** https://drive.google.com/file/d/1qBUGrWDf4ocgZNHGuSLEEwR3ZhzTmnLu/view?usp=sharing
+- 🎥 **Video demostración (máx. 3 min):** https://drive.google.com/file/d/1fcZVI0-iA8mKAIAq_5voG1MrF2SPYOrq/view?usp=sharing
 
 ---
 
